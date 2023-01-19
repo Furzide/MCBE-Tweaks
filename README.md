@@ -61,7 +61,7 @@ there is a pack for non renderdragon versions of minecraft, however for renderdr
 **Non-RenderDragon:** https://www.mediafire.com/file/33ibsfwwehokkvy/
 Double-Click the MCPACK file to import.
 
-**RenderDragon:** https://www.mediafire.com/file/z7sm8qh536nin4z
+**RenderDragon:** https://github.com/Furzide/RenderDragonFogRemover
 
 **to import a shader for renderdragon:**  
 open the game's install directory from within the bedrock launcher:
